@@ -1,0 +1,230 @@
+063rd Town Hall Notes
+
+1 - INTRODUCTION
+2 - GAME PLAN
+3 - FIRST ORDER OF BUISNESS
+# - OPEN DISCUSSIONS
+# - EPIC PARTY NIGHT
+
+MUSIC INTRO: Zac Brown Band - Jump Right In  https://www.youtube.com/watch?v=3TGmfbIufiQ
+MUSIC OUTRO: I'll Be There For You w Lyrics  https://www.youtube.com/watch?v=fg9pkAYvrSM
+
+ATTENDENCE PICTURE: 
+
+
+1 - INTRODUCTION -
+Hello and welcome everybody to the 63rd Town Hall Meeting! I'm glad you are all
+here today, so lets get right into things. Last Sunday I had a talk with some
+of the Admins and Mods and I came to realize I'm spending too much time on
+writing the Guidelines, and not enough time talking to you guys and teaching
+you guys about what it's even suppose to do. I'm not going to halt writing the
+damn thing, but I'm gonna write less and share my ideas with you all instead.
+
+I know enough about Gaming Communities to write a 200 page book. It's extensive
+and it'd be more effective if I told you guys instead of forcing you to read a
+document. Though I've been so focused on writing the thing because many groups
+that never get passed that 1 year mark is BECAUSE they don't have something
+that's writen down that's followed seriously. I mean groups of a 100 people
+with not even a basic writen Code.
+
+So now we have made though the first year. I've started the basic foundation
+of ideas this group need to follow, and I want to make sure that you guys get
+it. A ton of guys have come up to me and asked "What can I do to help JSG
+become the best gaming community ever made?" And I would say something like
+"Just wait for me to finish the Guidelines and I'll be right with you." NO that
+is not how this is going to work.
+
+BUT we cannot ignore it and just never write the Guidelines. This is why I have
+got into this whole Github thing. Github will enable you guys to have full
+control over the critical documents in this community. From the source files of
+logos and banners to the text of the Code and Guidelines. I accept all the
+changes on Git and now I'm calling out to you guys who want to help out!
+
+2 - GAME PLAN -
+So here's the GAME PLAN:
+- I'm going to focus first on bringing up our servers. We now have exactly $100
+and 30 cents in the Paypal and first I'm going to get a small linux box to host
+Mumble Music Bots. Once that's up you can subscribe for $10 a month to get your
+own channel that you can edit, and I'll supply the server and configure a Music
+Bot with you. You can name the bot and you get Admin commands over your bot.
+
+This is what we need, and I'm very sorry that this has taken so long but I was
+so fucking focused on making sure that we got past that critical first year to
+cement and mark that we are not going anywhere.
+
+- Next is realted to Git, all of the Mumble propoganda, all of the crazy shit
+we say on recording we have, pictures, documents, whatever needs to be
+collected and put there. No other community freaking uses Git, but we will take
+advantage of it so that we can easily share all the images and recordings that
+have made up this community. Like how many people have actually read WooZii's
+fan fic named "MrNalocible"? That shit goes onto the JSG Git. The Mumble image
+I made that says "I can still see, that you're not on Mumble." goes onto the
+Git. PUT ALL THE THINGS ON THE GIT.
+
+- Finally, I'm gonna stop writing the Guidelines so I can focus on these
+things. I'll still make edits, but when you have a "Late Night Conversation
+With Krucible" you are usually gonna be listening to things that should go into
+the Guidelines. I'd just would rather have the first Guidelines actually writen
+by the people who are following it, and be authored by anybody willing to so
+much as contribute one idea; because that's one more idea closer to perfection.
+
+Now, some of you are sitting here going DAMN like a black chick saying, I gonna
+have to listen to the fucking recording for this shit. This guy is handing me
+shit to do but I'm high as fuck right now. I'm seeing unicorns and this guys is
+going VIVA LA REVOLUTION and I don't know what the fuck. Just stay with me here
+and listen. I'm gonna start telling the Mods and Hosts what the hell to do
+personally and from there I want you guys to write out your experiences.
+
+This way everybody gets on the same page as to what the hell you needs to get
+done. Stuff like Mumble Etiquette doesn't infect people like Aids, instead of
+a sore ass you get a headache. So all of the ideas of this community need to
+be spread and it all depends really of what I tell you guys and how often you
+edit the Guidelines and that Git. Hell, now you can edit the Town Hall notes
+and add announcements and things to add of your own.
+
+3 - FIRST ORDER OF BUISNESS -
+So the first order of buisness is to normalize the Mumble. Some guys arn't
+getting on for whatever reason, I need the Hosts and Mods to find the guys who
+are getting IN-GAME but not in mumble; breaking the 5th Code, and ask them to
+hop on Mumble. Don't interrogate them just tell a Mod or Admin what you found
+out. This man was not getting on Mumble because his testicals were stuck in the
+DVD tray. He screamed like a girl and has one serious case of blue balls.
+That guy we can have sympathy for, and the guys who just don't have a ton of
+time in there day to play with everyone.
+
+The next thing is while I'm getting server buisness handled we can't just focus
+on our current members: it's long overdue but I'm gonna ask you to get on the
+hunt for some new members. Just look in your friends list or just introduce the
+really cool guys you know to the Mumble. If we focused on just bringing in some
+Dudes in here, like from the Big Libouwski, like 5 or 10 Dudeorinos holding on
+some diritos all just chilling. Lets get those guys into the Mumble, lets get
+those guys because they're usually too high to understand what the hell you are
+even asking them. "Oh Mumble, yea man whatever I'll get it. Just don't forget
+the diritos." Then it chain reacts and he gets more dudes on!
+
+# - OPEN DISCUSSIONS
+
+
+# - EPIC PARTY NIGHT
+Game Night is becoming a program. You can commit to coming to Game Night and
+every week you make a vote 
+
+
+new members. Not going into a lobby and recruiting because we only want people
+we like in here. It doesn't help inviting someone who's never gonna get on and gets along with nobody but
+you. Sounds like Counter Strike elitists to me.
+
+I think I can live with it. So what I'm gonna need now is help from
+you guys. Serious help because now that I'm taking my focus off of it someone
+else need to work on it. The reason we even need the Guid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello and welcome everybody to the 63rd Town Hall Meeting! I'm getting ready for this
+next year and starting to think about some of the things I'd like to do with the
+community. Set up some servers, makes some more friends, teach and learn some git tools;
+but I'm gonna have to let go of one thing and that's Guidelines. First let me clarify
+that I they will still be written, but at a much slower pace. I've been led to believe
+though my study of other groups that many groups failed because they didn't have some
+basic Code or Guidelines to follow. That's true, but not necessarily in our case.
+
+I've been so focused on completing the Guidelines that I lost sight of some common things
+like making Game Night fun. The reason why Game Night was so much fun long ago was
+because I spent time planning out the event thoroughly, and I've shifted that focus to
+the Guidelines. Now we need the Guidelines, we literally can't live without it so that
+nothing goes misunderstood as far as responsibilities go;
+
+  So let me
+first clarify that this does not mean that I'm no longer going to stop writing the thing:
+it means that I'm going to be spending drastically less time on it, because I realize now
+that it's more effective for me to just tell you guys.
+
+And it has also been hurting us. The Moderators and Hosts don't know what the hell to
+start doing right now because I havn't given out any orders or operation plans or THINGS
+TO WORK ON. It was two nights ago, Sunday that I was encountered by Jman and Damaleus and
+they told me that stuff isn't getting done and we're just sitting ducks right now. That's
+when I realized that I became too fixated to completing the Guidelines, and I'm sorry.
+
+Though with my study of other groups, if there's no "Code" or "Guidelines" the group can
+easily fall apart because people split due to misunderstood ideas; and there's no sense
+of who's in charge. But that's kinda where we are at right now, and it's very simple on
+how to get out of it. I need to stop writing the Guidelines and focus on teaching you
+guys what I want put in it. So this is why we have the Github. So from now I when I
+teach you something and you feel like that's something that should be added into the
+Guidelines, you must edit that into our Guidelines or I'll help you with it.
+
+I'd rather have the Guidelines authored by the people following it rather than myself,
+even though I'm an author you guys can have much more to add. Sometimes I've hear stuff
+I've never would of thought about, suggestions just from sitting with you guys in the
+chats and I'd go "Oh my god, that'd be perfect to add into the Guidelines!" I want you
+guys to have that same reaction, and passion if you can, for building this community.
+I know enough to write a 200 page book on gaming communities, but it would take so damn
+long because I've quite frankly never wrote a fuckin' book before.
+
+2 - GAME PLAN -
+So now guys here's the Game Plan:
+- I'm gonna start focusing more on talking and sharing ideas with you guys rather than
+writing them down. I'd rather have you guys take the responsibility of helping write it
+with me instead of doing it on my own.
+- Next, this is the big changer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
